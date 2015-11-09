@@ -1,0 +1,5 @@
+[package]
+
+name = "rustcache"
+version = "0.0.1"
+authors = ["Sagar Vemuri <sagar.vemuri@gmail.com>"]
